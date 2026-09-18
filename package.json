@@ -1,0 +1,15 @@
+{
+  "name": "sponsors",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Auto-generated sponsors list for @AprilNEA (GitHub Sponsors + 爱发电), built with sponsorkit",
+  "packageManager": "pnpm@12.4.2",
+  "scripts": {
+    "build": "sponsorkit",
+    "force": "sponsorkit --force"
+  },
+  "devDependencies": {
+    "sponsorkit": "^18.0.0"
+  }
+}

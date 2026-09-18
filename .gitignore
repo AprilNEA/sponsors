@@ -1,0 +1,11 @@
+node_modules
+.env
+.env.*
+!.env.example
+
+# sponsorkit cache (contains private sponsor data) – never commit
+sponsorkit/
+.cache.json
+
+# Cowork desktop app drops delivered files here – not part of the repo
+Claude outputs/

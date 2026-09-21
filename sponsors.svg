@@ -15,7 +15,7 @@ text {
   font-size: 20px;
 }
 </style>
-<text x="400" y="40" text-anchor="middle" class="sponsorkit-tier-title">Silver Sponsors</text><a href="https://okou.ai" class="sponsorkit-link" target="_blank" id="vm0-ai">
+<text x="400" y="40" text-anchor="middle" class="sponsorkit-tier-title">Silver Sponsors</text><a href="https://okou.ai" class="sponsorkit-link" target="_blank" id="okou-ai">
   <text x="400" y="153" text-anchor="middle" class="sponsorkit-name" fill="currentColor">Okou</text>
   
   <clipPath id="c0">
